@@ -1,4 +1,4 @@
-# Java-Learning
+# Java-Learning (Core Java)
 
 || **_Introduction to Java™ Programming and Data Structures_** ||
 + [x] Comprehensive Version, Pearson Edition
@@ -68,3 +68,4 @@
 14. [ ] Testing Using JUnit
 
 **_Appendixes: Another useful resources || will be updated on learning basis_**
+=======
