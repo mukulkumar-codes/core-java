@@ -10,7 +10,7 @@
 
 **_Part I: Fundamentals of Programming_**
 
-1. [ ] Introduction to Computers, Programs, and Java™
+1. [x] Introduction to Computers, Programs, and Java™
 2. [ ] Elementary Programming
 3. [ ] Selections
 4. [ ] Mathematical Functions, Characters, and Strings
