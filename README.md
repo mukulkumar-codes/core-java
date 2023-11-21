@@ -13,7 +13,7 @@
 1. [x] Introduction to Computers, Programs, and Java™
 2. [x] Elementary Programming
 3. [x] Selections
-4. [ ] Mathematical Functions, Characters, and Strings
+4. [x] Mathematical Functions, Characters, and Strings
 5. [ ] Loops
 6. [ ] Methods
 7. [ ] Single-Dimensional Arrays
